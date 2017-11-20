@@ -1,0 +1,19 @@
+{
+  "name": "hangman-constructor",
+  "version": "1.0.0",
+  "description": "creating a hangman command-line game using constructor functions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kayrahmani24/Hangman-Constructor.git"
+  },
+  "author": "Kayvan Rahmani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kayrahmani24/Hangman-Constructor/issues"
+  },
+  "homepage": "https://github.com/kayrahmani24/Hangman-Constructor#readme"
+}
