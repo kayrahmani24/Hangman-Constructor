@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/kayrahmani24/Hangman-Constructor/issues"
   },
-  "homepage": "https://github.com/kayrahmani24/Hangman-Constructor#readme"
+  "homepage": "https://github.com/kayrahmani24/Hangman-Constructor#readme",
+  "dependencies": {
+    "inquirer": "^4.0.0"
+  }
 }
