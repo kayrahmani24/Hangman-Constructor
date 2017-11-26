@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/kayrahmani24/Hangman-Constructor#readme",
   "dependencies": {
-    "inquirer": "^4.0.0"
+    "inquirer": "^4.0.0",
+    "validator": "^9.1.1"
   }
 }
